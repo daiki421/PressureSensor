@@ -24,7 +24,6 @@ void setup() {
 }
 
 void loop() {
-  delay(200);
   sensor0_val = analogRead(sensor0);
   sensor1_val = analogRead(sensor1);
   sensor2_val = analogRead(sensor2);
